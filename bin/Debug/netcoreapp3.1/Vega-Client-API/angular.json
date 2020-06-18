@@ -146,6 +146,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Vega-Client-API"
+    }
+  },
+  "defaultProject": "Vega-Client-API",
+  "cli": {
+    "analytics": "7ada9771-ec6d-4886-9363-28eec0a803bf"
+  }
 }

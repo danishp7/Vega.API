@@ -138,7 +138,6 @@ E:\Courses\repos\Vega.API\obj\Debug\netcoreapp3.1\Vega.API.RazorTargetAssemblyIn
 E:\Courses\repos\Vega.API\obj\Debug\netcoreapp3.1\Vega.API.csproj.CopyComplete
 E:\Courses\repos\Vega.API\obj\Debug\netcoreapp3.1\Vega.API.dll
 E:\Courses\repos\Vega.API\obj\Debug\netcoreapp3.1\Vega.API.pdb
-E:\Courses\repos\Vega.API\obj\Debug\netcoreapp3.1\Vega.API.csprojAssemblyReference.cache
 E:\Courses\repos\Vega.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
 E:\Courses\repos\Vega.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 E:\Courses\repos\Vega.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
@@ -147,3 +146,17 @@ E:\Courses\repos\Vega.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentic
 E:\Courses\repos\Vega.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 E:\Courses\repos\Vega.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 E:\Courses\repos\Vega.API\obj\Debug\netcoreapp3.1\Vega.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Courses\repos\Vega.API\bin\Debug\netcoreapp3.1\Vega.API.Views.dll
+E:\Courses\repos\Vega.API\bin\Debug\netcoreapp3.1\Vega.API.Views.pdb
+E:\Courses\repos\Vega.API\obj\Debug\netcoreapp3.1\Vega.API.RazorAssemblyInfo.cache
+E:\Courses\repos\Vega.API\obj\Debug\netcoreapp3.1\Vega.API.RazorAssemblyInfo.cs
+E:\Courses\repos\Vega.API\obj\Debug\netcoreapp3.1\Vega.API.TagHelpers.input.cache
+E:\Courses\repos\Vega.API\obj\Debug\netcoreapp3.1\Vega.API.TagHelpers.output.cache
+E:\Courses\repos\Vega.API\obj\Debug\netcoreapp3.1\Vega.API.RazorCoreGenerate.cache
+E:\Courses\repos\Vega.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Courses\repos\Vega.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Courses\repos\Vega.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Courses\repos\Vega.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Courses\repos\Vega.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Courses\repos\Vega.API\obj\Debug\netcoreapp3.1\Vega.API.RazorTargetAssemblyInfo.cs
+E:\Courses\repos\Vega.API\obj\Debug\netcoreapp3.1\Vega.API.Views.pdb

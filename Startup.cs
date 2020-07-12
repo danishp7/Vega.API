@@ -109,6 +109,9 @@ namespace Vega.API
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+                endpoints.MapControllerRoute(
+                    name: "default", // this is routing name
+                    pattern: "{controller=Home}/{action=Index}/{id?}");
             });
         }
     }

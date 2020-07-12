@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vega.API", "Vega.API.csproj", "{2946DC6C-5564-4165-A6A2-9F6A0AA6C988}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vega.API", "Vega.API.csproj", "{2946DC6C-5564-4165-A6A2-9F6A0AA6C988}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C55A075B-B77F-472E-AED7-23639EBCCE95}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
